@@ -1,0 +1,322 @@
+﻿jekyll : D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/win32/registry.rb:2: warning: fiddle/im
+port is found in fiddle, which will no longer be part of the default gems starting from Rub
+y 4.0.0.
+所在位置 行:1 字符: 50
++ ... ech\GitRepo\gj-guojing.github.io; jekyll build --verbose 2>&1 | Out-F ...
++                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:/Program File...rom Ruby 4.0.0.:String) [], 
+    RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+You can add fiddle to your Gemfile or gemspec to silence this warning.
+  Logging at level: debug
+    Jekyll Version: 4.4.1
+Configuration file: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_config.yml
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/cache-bust.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/details.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/download-3rd-party.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/external-posts.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/file-exists.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/google-scholar-citations.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/hide-custom-bibtex.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/inspirehep-citations.rb
+         Requiring: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_plugins/remove-accents.rb
+         Requiring: jekyll-archives-v2
+         Requiring: jekyll-email-protect
+         Requiring: jekyll-feed
+         Requiring: jekyll-get-json
+         Requiring: jekyll-imagemagick
+         Requiring: jekyll-jupyter-notebook
+         Requiring: jekyll-link-attributes
+         Requiring: jekyll-minifier
+         Requiring: jekyll-paginate-v2
+         Requiring: jekyll-regex-replace
+         Requiring: jekyll/scholar
+         Requiring: jekyll-sitemap
+         Requiring: jekyll-tabs
+         Requiring: jekyll-terser
+         Requiring: jekyll-toc
+         Requiring: jekyll-twitter-plugin
+         Requiring: jemoji
+            Source: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io
+       Destination: E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/about.liquid
+           Reading: /_layouts/archive.liquid
+           Reading: /_layouts/bib.liquid
+           Reading: /_layouts/book-review.liquid
+           Reading: /_layouts/book-shelf.liquid
+           Reading: /_layouts/cv.liquid
+           Reading: /_layouts/default.liquid
+           Reading: /_layouts/distill.liquid
+           Reading: /_layouts/none.liquid
+           Reading: /_layouts/page.liquid
+           Reading: /_layouts/post.liquid
+           Reading: /_layouts/profiles.liquid
+       EntryFilter: excluded /.jekyll-cache
+       EntryFilter: excluded /bin
+       EntryFilter: excluded /CONTRIBUTING.md
+       EntryFilter: excluded /CUSTOMIZE.md
+       EntryFilter: excluded /docker-compose-slim.yml
+       EntryFilter: excluded /docker-compose.yml
+       EntryFilter: excluded /Dockerfile
+       EntryFilter: excluded /FAQ.md
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /INSTALL.md
+       EntryFilter: excluded /LICENSE
+       EntryFilter: excluded /lighthouse_results
+       EntryFilter: excluded /package-lock.json
+       EntryFilter: excluded /package.json
+       EntryFilter: excluded /purgecss.config.js
+       EntryFilter: excluded /README.md
+       EntryFilter: excluded /readme_preview
+           Reading: _posts/2015-03-15-formatting-and-links.md
+           Reading: _posts/2015-05-15-images.md
+           Reading: _posts/2015-07-15-code.md
+           Reading: _posts/2015-10-20-disqus-comments.md
+           Reading: _posts/2015-10-20-math.md
+           Reading: _posts/2018-12-22-distill.md
+           Reading: _posts/2020-09-28-twitter.md
+           Reading: _posts/2021-07-04-diagrams.md
+           Reading: _posts/2022-02-01-redirect.md
+           Reading: _posts/2022-12-10-giscus-comments.md
+           Reading: _posts/2023-03-20-table-of-contents.md
+           Reading: _posts/2023-03-21-tables.md
+           Reading: _posts/2023-04-24-videos.md
+           Reading: _posts/2023-04-25-audios.md
+           Reading: _posts/2023-04-25-sidebar-table-of-contents.md
+           Reading: _posts/2023-05-12-custom-blockquotes.md
+           Reading: _posts/2023-07-04-jupyter-notebook.md
+           Reading: _posts/2023-07-12-post-bibliography.md
+           Reading: _posts/2023-12-12-tikzjax.md
+           Reading: _posts/2024-01-26-chartjs.md
+           Reading: _posts/2024-01-26-echarts.md
+           Reading: _posts/2024-01-26-geojson-map.md
+           Reading: _posts/2024-01-27-advanced-images.md
+           Reading: _posts/2024-01-27-code-diff.md
+           Reading: _posts/2024-01-27-vega-lite.md
+           Reading: _posts/2024-04-15-pseudocode.md
+           Reading: _posts/2024-04-28-post-citation.md
+           Reading: _posts/2024-04-29-typograms.md
+           Reading: _posts/2024-05-01-tabs.md
+           Reading: _posts/2024-12-04-photo-gallery.md
+           Reading: _posts/2025-03-26-plotly.md
+           Reading: assets/css/main.scss
+       EntryFilter: excluded /_pages/about_einstein.md
+           Reading: _pages/404.md
+           Reading: _pages/about.md
+           Reading: _pages/blog.md
+           Reading: _pages/books.md
+           Reading: _pages/cv.md
+           Reading: _pages/dropdown.md
+           Reading: _pages/news.md
+           Reading: _pages/profiles.md
+           Reading: _pages/projects.md
+           Reading: _pages/publications.md
+           Reading: _pages/repositories.md
+           Reading: _pages/teaching.md
+           Reading: _pages/test.md
+           Reading: _scripts/cronitor-analytics-setup.js
+           Reading: _scripts/giscus-setup.js
+           Reading: _scripts/google-analytics-setup.js
+           Reading: _scripts/open-panel-analytics-setup.js
+           Reading: _scripts/photoswipe-setup.js
+           Reading: _scripts/search.liquid.js
+           Reading: robots.txt
+           Reading: _books/the_godfather.md
+           Reading: _news/2024-06-mentee-award.md
+           Reading: _news/2024-09-ra-l-accepted.md
+           Reading: _news/2025-09-ra-l-reviewer.md
+           Reading: _news/2025-12-mpc-balancing-submitted.md
+           Reading: _news/2025-12-nanke-pangu-project.md
+           Reading: _news/2026-01-sim-to-real-rl-revision.md
+           Reading: _projects/1_project.md
+           Reading: _projects/2_project.md
+           Reading: _projects/3_project.md
+           Reading: _projects/4_project.md
+           Reading: _projects/5_project.md
+           Reading: _projects/6_project.md
+           Reading: _projects/7_project.md
+           Reading: _projects/8_project.md
+           Reading: _projects/9_project.md
+           Reading: _data/citations.yml
+           Reading: _data/coauthors.yml
+           Reading: _data/cv.yml
+           Reading: _data/repositories.yml
+           Reading: _data/socials.yml
+           Reading: _data/venues.yml
+        Generating: JekyllGetJson::GetJsonGenerator finished in 0.0004267 seconds.
+        Generating: Jekyll::Scholar::DetailsGenerator finished in 2.8e-05 seconds.
+        Generating: ExternalPosts::ExternalPostsGenerator finished in 4.8e-06 seconds.
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/bibsearch.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/chartjs-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/common.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/copy_code.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/diff2html-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/distillpub/overrides.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/distillpub/template.v2.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/distillpub/transforms.v2.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/echarts-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/highlight-search-term.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/jupyter_new_tab.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/leaflet-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/masonry.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/mathjax-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/mermaid-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/newsletter.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/no_defer.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/plotly-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/progress-bar.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/pseudocode-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/search-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/shortcut-key.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/theme.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/tooltips-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/typograms.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/vega-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/venobox-setup.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/wechat.js
+Terser: Minifying E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/assets/js/zoom.js
+        Generating: Jekyll::Terser::TerserGenerator finished in 0.0006673 seconds.
+           Reading: assets/jupyter/blog.ipynb
+        Generating: JekyllJupyterNotebook::Generator finished in 0.0319898 seconds.
+        Generating: Jekyll::ArchivesV2::Archives finished in 0.0132983 seconds.
+        Generating: Jekyll::JekyllSitemap finished in 0.0062271 seconds.
+       Jekyll Feed: Generating feed for posts
+        Generating: JekyllFeed::Generator finished in 0.0058944 seconds.
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Starting
+        Pagination: found page: _pages/blog.md
+        Pagination: Complete, processed 1 pagination page(s)
+        Generating: Jekyll::PaginateV2::Generator::PaginationGenerator finished in 0.0015249 seconds.
+       Imagemagick: Disabled in site.config
+        Generating: JekyllImagemagick::ImageGenerator finished in 2.04e-05 seconds.
+         Rendering: _posts/2015-03-15-formatting-and-links.md
+  Pre-Render Hooks: _posts/2015-03-15-formatting-and-links.md
+  Rendering Markup: _posts/2015-03-15-formatting-and-links.md
+Post-Convert Hooks: _posts/2015-03-15-formatting-and-links.md
+  Rendering Layout: _posts/2015-03-15-formatting-and-links.md
+         Rendering: _posts/2015-05-15-images.md
+  Pre-Render Hooks: _posts/2015-05-15-images.md
+  Rendering Liquid: _posts/2015-05-15-images.md
+  Rendering Markup: _posts/2015-05-15-images.md
+Post-Convert Hooks: _posts/2015-05-15-images.md
+  Rendering Layout: _posts/2015-05-15-images.md
+         Rendering: _posts/2015-07-15-code.md
+  Pre-Render Hooks: _posts/2015-07-15-code.md
+  Rendering Liquid: _posts/2015-07-15-code.md
+  Rendering Markup: _posts/2015-07-15-code.md
+Post-Convert Hooks: _posts/2015-07-15-code.md
+  Rendering Layout: _posts/2015-07-15-code.md
+         Rendering: _posts/2015-10-20-math.md
+  Pre-Render Hooks: _posts/2015-10-20-math.md
+  Rendering Markup: _posts/2015-10-20-math.md
+Post-Convert Hooks: _posts/2015-10-20-math.md
+  Rendering Layout: _posts/2015-10-20-math.md
+         Rendering: _posts/2015-10-20-disqus-comments.md
+  Pre-Render Hooks: _posts/2015-10-20-disqus-comments.md
+  Rendering Markup: _posts/2015-10-20-disqus-comments.md
+Post-Convert Hooks: _posts/2015-10-20-disqus-comments.md
+  Rendering Layout: _posts/2015-10-20-disqus-comments.md
+         Rendering: _posts/2020-09-28-twitter.md
+  Pre-Render Hooks: _posts/2020-09-28-twitter.md
+  Rendering Liquid: _posts/2020-09-28-twitter.md
+[31m  Liquid Exception: An existing connection was forcibly closed by the remote host. - S
+SL_connect in E:/gjjg/SUSTech/GitRepo/gj-guojing.github.io/_posts/2020-09-28-twitter.md[0m
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `build` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/protocol.rb:46:in 'OpenSSL::SSL::SSLSocket#c
+onnect_nonblock': An existing connection was forcibly closed by the remote host. - SSL_conn
+ect (Errno::ECONNRESET)
+	from D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/protocol.rb:46:in 'Net::Protocol#ssl_s
+ocket_connect'
+	from D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/http.rb:1736:in 'Net::HTTP#connect'
+	from D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/http.rb:1636:in 'Net::HTTP#do_start'
+	from D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/http.rb:1625:in 'Net::HTTP#start'
+	from D:/Program Files/Ruby34-x64/lib/ruby/3.4.0/net/http.rb:1064:in 'Net::HTTP.start'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-twitter-plugin-2.1.0/lib/jekyll
+-twitter-plugin.rb:73:in 'TwitterJekyll::ApiClient#fetch'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-twitter-plugin-2.1.0/lib/jekyll
+-twitter-plugin.rb:209:in 'TwitterJekyll::TwitterTag#live_response'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-twitter-plugin-2.1.0/lib/jekyll
+-twitter-plugin.rb:180:in 'TwitterJekyll::TwitterTag#render'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/block_body.rb:
+103:in 'Liquid::BlockBody#render_node_to_output'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/block_body.rb:
+91:in 'Liquid::BlockBody#render'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/template.rb:20
+6:in 'block in Liquid::Template#render'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/template.rb:24
+0:in 'Liquid::Template#with_profiling'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/template.rb:20
+5:in 'Liquid::Template#render'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/liquid-4.0.4/lib/liquid/template.rb:21
+8:in 'Liquid::Template#render!'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:39:in 'block (3 levels) in Jekyll::LiquidRenderer::File#render!'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:59:in 'Jekyll::LiquidRenderer::File#measure_counts'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:38:in 'block (2 levels) in Jekyll::LiquidRenderer::File#render!'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:63:in 'Jekyll::LiquidRenderer::File#measure_bytes'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:37:in 'block in Jekyll::LiquidRenderer::File#render!'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:70:in 'Jekyll::LiquidRenderer::File#measure_time'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/liquid_rendere
+r/file.rb:36:in 'Jekyll::LiquidRenderer::File#render!'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:12
+9:in 'Jekyll::Renderer#render_liquid'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:80
+:in 'Jekyll::Renderer#render_document'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:63
+:in 'Jekyll::Renderer#run'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:572:in
+ 'Jekyll::Site#render_regenerated'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:557:in
+ 'block (2 levels) in Jekyll::Site#render_docs'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:556:in
+ 'Array#each'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:556:in
+ 'block in Jekyll::Site#render_docs'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:555:in
+ 'Hash#each_value'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:555:in
+ 'Jekyll::Site#render_docs'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:210:in
+ 'Jekyll::Site#render'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:80:in 
+'Jekyll::Site#process'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:
+in 'Jekyll::Command.process_site'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/commands/build
+.rb:65:in 'Jekyll::Commands::Build.build'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/commands/build
+.rb:36:in 'Jekyll::Commands::Build.process'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:
+in 'block in Jekyll::Command.process_with_graceful_fail'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:
+in 'Array#each'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:
+in 'Jekyll::Command.process_with_graceful_fail'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/lib/jekyll/commands/build
+.rb:18:in 'block (2 levels) in Jekyll::Commands::Build.init_with_program'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.
+rb:221:in 'block in Mercenary::Command#execute'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.
+rb:221:in 'Array#each'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/mercenary-0.4.0/lib/mercenary/command.
+rb:221:in 'Mercenary::Command#execute'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/mercenary-0.4.0/lib/mercenary/program.
+rb:44:in 'Mercenary::Program#go'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in
+ 'Mercenary.program'
+	from C:/Users/gjjg/.local/share/gem/ruby/3.4.0/gems/jekyll-4.4.1/exe/jekyll:15:in '<top (r
+equired)>'
+	from C:/Users/gjjg/AppData/Local/Microsoft/WindowsApps/jekyll:25:in 'Kernel#load'
+	from C:/Users/gjjg/AppData/Local/Microsoft/WindowsApps/jekyll:25:in '<main>'
