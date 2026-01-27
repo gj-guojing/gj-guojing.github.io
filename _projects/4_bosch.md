@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industrial R&D: Real-time Motion Control (Bosch Rexroth)
+title: Industrial R&D at Bosch Rexroth
 description: Software Engineer | 2021 – 2022
 img: assets/img/projects/ctrlx-auto.png
 importance: 4
@@ -11,10 +11,10 @@ Developed core **motion control and machine vision** modules for **Bosch ctrlX A
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/ctrlx-auto.png" title="ctrlX AUTOMATION" class="img-fluid rounded z-depth-1" style="height: 300px; object-fit: contain;" %}
+    <img src="/assets/img/projects/ctrlx-auto.png" alt="ctrlX AUTOMATION" class="rounded z-depth-1" style="width: 100%; height: 300px; object-fit: contain;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/ctrl-motion.png" title="Motion Control" class="img-fluid rounded z-depth-1" style="height: 300px; object-fit: contain;" %}
+    <img src="/assets/img/projects/ctrl-motion.png" alt="Motion Control" class="rounded z-depth-1" style="width: 100%; height: 300px; object-fit: contain;">
   </div>
 </div>
 
