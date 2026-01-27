@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electromechanical Design of Bipedal Robot, STEPPER
-description: Lead Designer | 2024
+description: Project Lead | 2024
 img: assets/img/projects/stepper.png
 importance: 3
 category: work
