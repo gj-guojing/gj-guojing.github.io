@@ -11,10 +11,10 @@ As a core member of **"Nanke Pangu"** project (Shenzhen's first university-devel
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/pangu-scheme.png" alt="Nanke Pangu Scheme" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    <img src="/assets/img/projects/pangu-scheme.png" alt="Nanke Pangu Scheme" class="rounded z-depth-1" style="height: 300px;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/pangu.png" alt="Nanke Pangu Robot" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    <img src="/assets/img/projects/pangu.png" alt="Nanke Pangu Robot" class="rounded z-depth-1" style="height: 300px;">
   </div>
 </div>
 

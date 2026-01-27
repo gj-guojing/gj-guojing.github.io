@@ -11,8 +11,8 @@ category: work
 
 <div class="row">
   <div class="col-sm-12">
-    <div class="embed-responsive embed-responsive-16by9" style="height: 300px;">
-      <video class="embed-responsive-item" autoplay muted loop style="object-fit: contain;">
+    <div class="embed-responsive embed-responsive-16by9">
+      <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/inspection.mp4" type="video/mp4">
         Your browser does not support video playback.
       </video>

@@ -11,25 +11,25 @@ Competed in **RoboMaster**, premier collegiate robotics competition in China.
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/rm2015.png" alt="RoboMaster 2015 Team" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    {% include figure.liquid loading="eager" path="assets/img/projects/rm2015.png" title="RoboMaster 2015 Team" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/rm2016.png" alt="RoboMaster 2016 Team" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    {% include figure.liquid loading="eager" path="assets/img/projects/rm2016.png" title="RoboMaster 2016 Team" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="row mt-4">
   <div class="col-sm-6">
-    <div class="embed-responsive embed-responsive-16by9" style="height: 300px;">
-      <video class="embed-responsive-item" autoplay muted loop style="object-fit: contain;">
+    <div class="embed-responsive embed-responsive-16by9">
+      <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/mecanum.mp4" type="video/mp4">
         Your browser does not support video playback.
       </video>
     </div>
   </div>
   <div class="col-sm-6">
-    <div class="embed-responsive embed-responsive-16by9" style="height: 300px;">
-      <video class="embed-responsive-item" autoplay muted loop style="object-fit: contain;">
+    <div class="embed-responsive embed-responsive-16by9">
+      <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/nav.mp4" type="video/mp4">
         Your browser does not support video playback.
       </video>

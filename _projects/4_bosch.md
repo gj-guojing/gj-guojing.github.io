@@ -11,17 +11,17 @@ Developed core **motion control and machine vision** modules for **Bosch ctrlX A
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/ctrlx-auto.png" alt="ctrlX AUTOMATION" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    <img src="/assets/img/projects/ctrlx-auto.png" alt="ctrlX AUTOMATION" class="rounded z-depth-1" style="max-width: 100%; height: 300px; display: block; margin: 0 auto;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/ctrl-motion.png" alt="Motion Control" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    <img src="/assets/img/projects/ctrl-motion.png" alt="Motion Control" class="rounded z-depth-1" style="max-width: 100%; height: 300px; display: block; margin: 0 auto;">
   </div>
 </div>
 
 <div class="row mt-4">
   <div class="col-sm-12">
-    <div class="embed-responsive embed-responsive-16by9" style="height: 300px;">
-      <video class="embed-responsive-item" autoplay muted loop style="object-fit: contain;">
+    <div class="embed-responsive embed-responsive-16by9">
+      <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/pnp.mp4" type="video/mp4">
         Your browser does not support video playback.
       </video>

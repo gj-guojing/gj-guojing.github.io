@@ -11,8 +11,8 @@ related_publications: true
 STANDER is a self-developed, underactuated triple-pendulum platform I engineered from scratch. It serves as a foundational testbed for validating advanced control algorithms.
 
 <div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    <img src="/assets/img/projects/stander-bal.png" alt="STANDER Balancing" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/stander-bal.png" title="STANDER Balancing" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

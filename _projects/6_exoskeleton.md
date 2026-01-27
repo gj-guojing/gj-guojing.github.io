@@ -11,11 +11,11 @@ An early exploratory project in collaboration with **UESTC's School of Aeronauti
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/testbed.png" alt="Single-leg Testbed" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
+    <img src="/assets/img/projects/testbed.png" alt="Single-leg Testbed" class="rounded z-depth-1" style="max-width: 100%; height: 300px; display: block; margin: 0 auto;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    <div class="embed-responsive embed-responsive-16by9" style="height: 300px;">
-      <video class="embed-responsive-item" autoplay muted loop style="object-fit: contain;">
+    <div class="embed-responsive" style="height: 300px;">
+      <video class="embed-responsive-item" autoplay muted loop style="height: 100%;">
         <source src="/assets/img/projects/exoskeleton.mp4" type="video/mp4">
         Your browser does not support video playback.
       </video>
