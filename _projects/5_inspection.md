@@ -14,10 +14,9 @@ category: work
     <div class="embed-responsive embed-responsive-16by9">
       <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/inspection.mp4" type="video/mp4">
-        您的浏览器不支持视频播放。
+        Your browser does not support video playback.
       </video>
     </div>
-    <p class="text-center text-muted">巡检机器人演示视频（自动播放）</p>
   </div>
 </div>
 

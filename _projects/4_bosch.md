@@ -23,10 +23,9 @@ Developed core **motion control and machine vision** modules for **Bosch ctrlX A
     <div class="embed-responsive embed-responsive-16by9">
       <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/pnp.mp4" type="video/mp4">
-        您的浏览器不支持视频播放。
+        Your browser does not support video playback.
       </video>
     </div>
-    <p class="text-center text-muted">Pick-and-Place 演示视频（自动播放）</p>
   </div>
 </div>
 
