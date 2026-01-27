@@ -11,10 +11,10 @@ Developed core **motion control and machine vision** modules for **Bosch ctrlX A
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/ctrlx-auto.png" alt="ctrlX AUTOMATION" class="rounded z-depth-1" style="max-width: 100%; height: 300px; display: block; margin: 0 auto;">
+    <img src="/assets/img/projects/ctrlx-auto.png" alt="ctrlX AUTOMATION" class="rounded z-depth-1">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    <img src="/assets/img/projects/ctrl-motion.png" alt="Motion Control" class="rounded z-depth-1" style="max-width: 100%; height: 300px; display: block; margin: 0 auto;">
+    <img src="/assets/img/projects/ctrl-motion.png" alt="Motion Control" class="rounded z-depth-1">
   </div>
 </div>
 

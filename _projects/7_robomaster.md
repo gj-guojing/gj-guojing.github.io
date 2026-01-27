@@ -11,10 +11,10 @@ Competed in **RoboMaster**, premier collegiate robotics competition in China.
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/rm2015.png" title="RoboMaster 2015 Team" class="img-fluid rounded z-depth-1" %}
+    <img src="/assets/img/projects/rm2015.png" alt="RoboMaster 2015 Team" class="rounded z-depth-1">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/rm2016.png" title="RoboMaster 2016 Team" class="img-fluid rounded z-depth-1" %}
+    <img src="/assets/img/projects/rm2016.png" alt="RoboMaster 2016 Team" class="rounded z-depth-1">
   </div>
 </div>
 
