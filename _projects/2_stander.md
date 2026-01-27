@@ -26,5 +26,20 @@ STANDER is a self-developed, underactuated triple-pendulum platform I engineered
 
 - [**Paper**] Angular Momentum-Guided Real-Time Control for Stabilizing Under-actuated Triple Pendulums (T-MECH, Under Review) `[PDF]`
 - [**Paper**] Adaptive Curriculum Reinforcement Learning with Sim-to-Real Strategy in Balance Control of Underactuated Triple Pendulum Robots (Robotica) `[PDF]`
-- [**Video 1**] **MPC Performance:** Real-time balancing & disturbance rejection [▶ Watch Video](https://www.youtube.com/watch?v=7xTXajSdNSc)
-- [**Video 2**] **Sim-to-Real RL:** Zero-shot transfer experiments `[▶ Watch Video]`
+
+<div class="row mt-4">
+  <div class="col-sm-6">
+    <h4>Video 1: MPC Performance</h4>
+    <p>Real-time balancing & disturbance rejection</p>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7xTXajSdNSc" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <h4>Video 2: Sim-to-Real RL</h4>
+    <p>Zero-shot transfer experiments</p>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
