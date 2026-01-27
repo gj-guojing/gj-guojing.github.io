@@ -11,7 +11,7 @@ As a conceptual successor to STANDER, STEPPER is a bipedal robot designed to exp
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/stepper.png" title="STEPPER Bipedal Robot" class="img-fluid rounded z-depth-1" %}
+    <img src="/assets/img/projects/stepper.png" alt="STEPPER Bipedal Robot" class="rounded z-depth-1" style="max-width: 100%; max-height: 400px; display: block; margin: 0 auto;">
   </div>
 </div>
 

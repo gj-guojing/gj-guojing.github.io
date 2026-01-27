@@ -11,10 +11,10 @@ Competed in **RoboMaster**, premier collegiate robotics competition in China.
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/rm2015.png" title="RoboMaster 2015 Team" class="img-fluid rounded z-depth-1" %}
+    <img src="/assets/img/projects/rm2015.png" alt="RoboMaster 2015 Team" class="rounded z-depth-1" style="max-width: 100%; max-height: 300px; display: block; margin: 0 auto;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/rm2016.png" title="RoboMaster 2016 Team" class="img-fluid rounded z-depth-1" %}
+    <img src="/assets/img/projects/rm2016.png" alt="RoboMaster 2016 Team" class="rounded z-depth-1" style="max-width: 100%; max-height: 300px; display: block; margin: 0 auto;">
   </div>
 </div>
 
@@ -23,7 +23,6 @@ Competed in **RoboMaster**, premier collegiate robotics competition in China.
     <div class="embed-responsive embed-responsive-16by9">
       <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/mecanum.mp4" type="video/mp4">
-        Your browser does not support video playback.
       </video>
     </div>
   </div>
@@ -31,7 +30,6 @@ Competed in **RoboMaster**, premier collegiate robotics competition in China.
     <div class="embed-responsive embed-responsive-16by9">
       <video class="embed-responsive-item" autoplay muted loop>
         <source src="/assets/img/projects/nav.mp4" type="video/mp4">
-        Your browser does not support video playback.
       </video>
     </div>
   </div>
