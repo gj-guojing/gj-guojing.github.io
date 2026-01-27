@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Assistant at the [Intelligent Robot & Control Lab](https://faculty.sustech.edu.cn/pany/en/), **Southern University of Science and Technology (SUSTech)**, supervised by [Prof. Yang Pan](https://faculty.sustech.edu.cn/pany/en/) and collaborating closely with [Prof. Jian S. Dai](https://scholar.google.com/citations?user=PXpHh2UAAAAJ&hl=en).
+I am currently a Research Assistant at the Intelligent Robot & Control Lab, **Southern University of Science and Technology (SUSTech)**, supervised by [Prof. Yang Pan](https://faculty.sustech.edu.cn/pany/en/) and collaborating closely with [Prof. Jian S. Dai](https://scholar.google.com/citations?user=PXpHh2UAAAAJ&hl=en).
 
 My research lies at the intersection of **Control Theory** and **Robot Learning**, with a primary goal of enhancing the agility of legged locomotion and the dexterity of robotic manipulation. I am particularly interested in leveraging **Model Predictive Control (MPC)** and **Reinforcement Learning (RL)** to solve complex dynamic tasks.
 

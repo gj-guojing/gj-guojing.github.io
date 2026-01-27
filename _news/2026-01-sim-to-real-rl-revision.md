@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The revised manuscript on **Sim-to-Real RL** was submitted to **Robotica** (Minor Revision).
+The paper on **Sim-to-Real RL** was accepted by **Robotica**!
