@@ -12,7 +12,7 @@ STANDER is a self-developed, underactuated triple-pendulum platform I engineered
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    <img src="/assets/img/projects/stander-bal.png" alt="STANDER Balancing" class="rounded z-depth-1">
+    <img src="/assets/img/projects/stander-bal.png" alt="STANDER Balancing" class="rounded z-depth-1" style="height: 300px; object-fit: contain;">
   </div>
 </div>
 
