@@ -11,16 +11,20 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-{% assign sorted_projects = site.projects | sort: "importance" %}
+  <!-- Manually specify projects in correct order -->
+  {% assign project_files = "1_pangu.md,2_stander.md,3_stepper.md,4_bosch.md,5_inspection.md,6_exoskeleton.md,7_robomaster.md" | split: "," %}
 
-  <!-- Display full project content -->
-  {% for project in sorted_projects %}
-    <div class="project-full">
-      <h3>{{ project.title }}</h3>
-      <p><strong>{{ project.description }}</strong></p>
-      {{ project.content }}
-      <hr>
-    </div>
+  {% for project_file in project_files %}
+    {% for project in site.projects %}
+      {% if project.name == project_file %}
+        <div class="project-full">
+          <h3>{{ project.title }}</h3>
+          <p><strong>{{ project.description }}</strong></p>
+          {{ project.content }}
+          <hr>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </div>
 
