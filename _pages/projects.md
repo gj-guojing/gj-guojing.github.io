@@ -17,8 +17,8 @@ horizontal: false
     <li><a href="#design-and-control-of-balancing-robot-stander">Design and Control of Balancing Robot, STANDER</a></li>
     <li><a href="#electromechanical-design-of-bipedal-robot-stepper">Electromechanical Design of Bipedal Robot, STEPPER</a></li>
     <li><a href="#industrial-rd-at-bosch-rexroth">Industrial R&D at Bosch Rexroth</a></li>
-    <li><a href="#autonomous-inspection-robot-for-data-centers">Autonomous Inspection Robot for Data Centers</a></li>
-    <li><a href="#lower-limb-exoskeleton-prototype">Lower-limb Exoskeleton Prototype</a></li>
+    <li><a href="#autonomous-inspection-robot-for-data-centers">Autonomous Inspection Robot Project</a></li>
+    <li><a href="#lower-limb-exoskeleton-prototype">Lower-limb Exoskeleton Project</a></li>
     <li><a href="#robomaster-robotics-competition-hosted-by-dji">RoboMaster Robotics Competition (Hosted by DJI)</a></li>
   </ul>
 </div>
