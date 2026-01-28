@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Inspection Robot for Data Centers
+title: Autonomous Inspection Robot Project
 description: Robotics Engineer | 2019 – 2020
 img: assets/img/projects/inspection.mp4
 importance: 5

@@ -39,7 +39,7 @@ STANDER is a self-developed, underactuated triple-pendulum platform I engineered
     <h4>Video 2: Sim-to-Real RL</h4>
     <p>Zero-shot transfer experiments</p>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2-yskXyq0DA" allowfullscreen></iframe>
     </div>
   </div>
 </div>

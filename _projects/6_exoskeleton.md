@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lower-limb Exoskeleton Prototype
+title: Lower-limb Exoskeleton Project
 description: Robotics Engineer | 2017 – 2018
 img: assets/img/projects/testbed.png
 importance: 6
