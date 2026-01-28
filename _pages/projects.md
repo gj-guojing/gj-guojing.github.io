@@ -13,13 +13,14 @@ horizontal: false
 <div class="projects-toc">
   <h3>Table of Contents</h3>
   <ul class="toc-list">
-    <li><a href="#nanke-pangu-humanoid-robot-project">Nanke Pangu Humanoid Robot Project</a></li>
-    <li><a href="#design-and-control-of-balancing-robot-stander">Design and Control of Balancing Robot, STANDER</a></li>
-    <li><a href="#electromechanical-design-of-bipedal-robot-stepper">Electromechanical Design of Bipedal Robot, STEPPER</a></li>
-    <li><a href="#industrial-rd-at-bosch-rexroth">Industrial R&D at Bosch Rexroth</a></li>
-    <li><a href="#autonomous-inspection-robot-project">Autonomous Inspection Robot Project</a></li>
-    <li><a href="#lower-limb-exoskeleton-project">Lower-limb Exoskeleton Project</a></li>
-    <li><a href="#robomaster-robotics-competition-hosted-by-dji">RoboMaster Robotics Competition (Hosted by DJI)</a></li>
+    {% assign project_files = "1_pangu.md,2_stander.md,3_stepper.md,4_bosch.md,5_inspection.md,6_exoskeleton.md,7_robomaster.md" | split: "," %}
+    {% for project_file in project_files %}
+      {% for project in site.projects %}
+        {% if project.name == project_file %}
+          <li><a href="#{{ project.title | slugify }}">{{ project.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   </ul>
 </div>
 
